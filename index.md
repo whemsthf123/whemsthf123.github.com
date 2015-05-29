@@ -6,6 +6,9 @@
 #
 layout: frontpage
 <<<<<<< HEAD
+title: "gggggggg – A Jekyll Theme Based On Foundation"
+=======
+<<<<<<< HEAD
 title: "Sesonal travel"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
@@ -13,6 +16,7 @@ widget-1:
     title: "Blog & Portfolio"
 =======
 title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+>>>>>>> 720ff03944a07dbeaf9d7b798ce1c33ea72a8ebd
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
