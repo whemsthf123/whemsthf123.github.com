@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2015-05-30
 img: 춘천.png
 alt: image-alt
 project-date: April 2014
