@@ -7,7 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 안녕하세요<a href="https://www.naver.com">naver</a>ddddddddd<img src="진해.png">.
- 
+description: 안녕하세요<a href="https://www.naver.com">naver</a>dddddd. <img src="진해.png"> 
 
 ---
