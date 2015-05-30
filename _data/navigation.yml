@@ -1,10 +1,15 @@
 - title: Start
-  url: "/"
+  url: "/indetx.html"
   side: left
 
 - title: My Biography
   url: "/bio/"
   side: left
+
+- title: Portfolio
+  url: "/portfolio/"
+  side: left
+
 
 - title: "Templates"
   url: "/design/"
