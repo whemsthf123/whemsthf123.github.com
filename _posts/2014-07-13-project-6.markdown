@@ -7,7 +7,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: #####벚꽃이 필 무렵의 진해 군항제
+description: **제목**
+
 
 
 ---
