@@ -23,7 +23,7 @@ widget-1:
     title: "조든솔,최은빈,임도은,장선영"
 >>>>>>> c6d1cf68ac7e94262ee39f2d48962a86bedde212
     url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    text: 'the first editing'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Why use this theme?"
