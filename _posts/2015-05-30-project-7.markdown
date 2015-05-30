@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2015-05-30
-img: hanok.jpg
+img: han.jpg
 alt: image-alt
 project-date: May 2015
 client: Start Bootstrap
