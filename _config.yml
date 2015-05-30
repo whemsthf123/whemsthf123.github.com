@@ -15,7 +15,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: cse_kut 2014
   location: Location
   social: Around the Web
   credits: Credits
@@ -23,20 +23,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/madeleine0829
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://facebook.com/profile.php?id=100007062280143&fref=ts
   - title: github
-    url: http://github.com/jekyll
-
+    url: http://whemsthf123.github.com
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 대한민국 충청남도 천안시 동남구 병천면 충절로 가전리 1600
+  - line: 한국기술교육대학교
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
