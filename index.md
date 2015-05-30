@@ -13,17 +13,17 @@ title: "Sesonal travel"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog & Portfolio"
+    title: "Start page"
 =======
 title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 >>>>>>> 720ff03944a07dbeaf9d7b798ce1c33ea72a8ebd
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "조든솔,최은빈,임도은,장선영"
+    title: "start"
 >>>>>>> c6d1cf68ac7e94262ee39f2d48962a86bedde212
     url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'the first editing'
+    text: 'the first edit'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Why use this theme?"
