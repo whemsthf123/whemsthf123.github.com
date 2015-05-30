@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: My Biography
-  url: "/bio/"
+- title: Getting Started
+  url: "/getting-started/"
   side: left
 
 - title: "Templates"
