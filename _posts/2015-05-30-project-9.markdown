@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 9
-name: BUSAN
+name: 부산
 date: 2015-05-30
 img: busan.jpg
 alt: image-alt
