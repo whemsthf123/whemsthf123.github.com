@@ -13,7 +13,6 @@ description: Use this area of the page to describe your project. The icon above 
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Page Heading
-                    <small>Secondary Text</small>
                 </h1>
             </div>
         </div>
@@ -23,7 +22,7 @@ description: Use this area of the page to describe your project. The icon above 
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive img-centered" src="http://placehold.it/700x400" alt="">
+                    <img class="img-responsive img-centered" src="해운대.jpg" alt="">
                 </a>
                 <h3>
                     <a href="#">Project One</a>
