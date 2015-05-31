@@ -31,7 +31,7 @@ description: Use this area of the page to describe your project. The icon above 
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive img-centered" src="http://placehold.it/700x400" alt="">
+                    <img class="img-responsive img-centered" src="광안리.jpg" alt="">
                 </a>
                 <h3>
                     <a href="#">Project Two</a>
