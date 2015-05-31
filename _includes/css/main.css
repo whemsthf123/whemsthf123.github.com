@@ -4,6 +4,8 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.BoxCenter2{position:relative;margin-left:-485px:left:50%; width:970px;text-align=center;}
+
 body {
     overflow-x: hidden;
 }
