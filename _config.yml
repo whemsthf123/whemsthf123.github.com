@@ -34,7 +34,7 @@ address:
   - line: 한국기술교육대학교
 
 # Credits content
-credits: 'created by <a href="cse.koreatech.ac.kr">CSE Students</a>.'
+credits: 'created by <a href="http://cse.koreatech.ac.kr">CSE Students</a>.'
 
 # Build settings
 markdown: kramdown
