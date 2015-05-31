@@ -24,7 +24,7 @@ description: <h3>1. 소개</h3><br>진해구는 대한민국 경상남도 창원
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <img class="img-responsive" src="해안산책로.jpg" alt="">
                 </a>
                 <h3>
                     <a href="#">Project One</a>
