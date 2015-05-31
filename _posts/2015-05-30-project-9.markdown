@@ -22,7 +22,7 @@ description: Use this area of the page to describe your project. The icon above 
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive img-centered" src="해운대.jpg" alt="">
+                    <img class="img-responsive img-centered" src="he.jpg" alt="">
                 </a>
                 <h3>
                     <a href="#">Project One</a>
