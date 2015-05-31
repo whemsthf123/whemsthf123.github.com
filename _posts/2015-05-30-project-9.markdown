@@ -1,9 +1,9 @@
 ---
-name: 전주
 layout: default
-modal-id: 7
+modal-id: 9
+name: 부산
 date: 2015-05-30
-img: han.jpg
+img: busan.jpg
 alt: image-alt
 project-date: May 2015
 client: Start Bootstrap
